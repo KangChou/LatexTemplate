@@ -14,6 +14,7 @@
 - RUC：https://github.com/andelf/ruc-beamer-template
 - Waseda：https://github.com/fuujiro/Waseda-Beamer-Slide
 - HUST：https://github.com/Urinx/LaTeX-PPT-Template
+- 中文学术LaTeX Beamer模板 https://github.com/SunYanCN/Latex-Beamer-Template
 
 
 参考：
